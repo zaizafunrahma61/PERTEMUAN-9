@@ -9,4 +9,4 @@ hist(mtcars$mpg)
 boxplot(mtcars$mpg)S
 >>>>>>> branch-baru
 
-barplot(mtcars$mpg)
+
